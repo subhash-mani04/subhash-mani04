@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working as an Associate Manager Consulting with DXC Technology<br>I am certified on CKAD and I work with Product Owners in solving Complex problems. <br>Multi Cloud Solution Architect with Expertise in App Migration and Modernization.<br>Also a Certified AI Engineer. I like to Automate workflows and Containerize Applications.
+Associate Manager – Consulting at DXC Technology<br><br>CKAD Certified | Certified AI Engineer<br><br>Multi-Cloud Solution Architect specializing in Application Migration & Modernization<br><br>Skilled in partnering with Product Owners to tackle complex technical challenges<br><br>Passionate about automation, workflow optimization, and containerized application delivery<br><br>Driving innovation through cloud-native architectures and intelligent solutions
 
 
 ## 🌐 Socials:
